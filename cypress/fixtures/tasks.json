@@ -1,0 +1,16 @@
+{
+    "dup": {
+        "name": "Estudar Cypress",
+        "is_done": false
+    },
+
+    "finishActivity": {
+        "name": "Fazer compras",
+        "is_done": false
+    },
+
+    "deleteActivity": {
+        "name": "Ler um Livro de Qualidade",
+        "is_done": false
+    }
+}

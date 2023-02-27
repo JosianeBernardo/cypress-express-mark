@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 24 13:33:43 GFT 2023","Fri Feb 24 13:33:44 GFT 2023","627","tarefas","Cadastro","","","","Não deve permitir a criação de tarefa duplicada",""
+"passed","Fri Feb 24 13:33:44 GFT 2023","Fri Feb 24 13:33:44 GFT 2023","259","tarefas","Atualização","","","","Deve concluir uma tarefa",""
+"passed","Fri Feb 24 13:33:44 GFT 2023","Fri Feb 24 13:33:44 GFT 2023","245","tarefas","Exclusão","","","","Deve remover uma tarefa",""
+"passed","Fri Feb 24 13:33:44 GFT 2023","Fri Feb 24 13:33:44 GFT 2023","201","tarefas","Cadastro","","","","Campo Obrigatório",""
+"passed","Fri Feb 24 13:33:35 GFT 2023","Fri Feb 24 13:33:37 GFT 2023","1973","","home","","","","webapp deve estar online",""
+"passed","Fri Feb 24 13:33:41 GFT 2023","Fri Feb 24 13:33:43 GFT 2023","2365","tarefas","Cadastro","","","","Deve cadastrar uma nova tarefa",""
